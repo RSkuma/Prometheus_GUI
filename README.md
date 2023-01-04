@@ -3,7 +3,7 @@ holds the docker config files for a flask python app, prometheus monitering syst
 
 Commands:
  1. install docker and docker compose
- 2. <pull repo>
+ 2. [pull repo]
  3. CD Prometheus_GUI/docker-compose
  4. docker compose build
  5. docker compose up 
